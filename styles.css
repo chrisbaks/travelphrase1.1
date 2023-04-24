@@ -1,0 +1,90 @@
+         body{
+                font-family:"open sans";
+            }
+         
+        .col-sm-12{
+             width:auto;
+             margin:0 auto;
+            text-align:center;
+        }
+        .box{
+            height:480px;
+            width:98%;
+            box-shadow: 1px 1px 9px -3px rgba(0,0,0,0.75);
+-webkit-box-shadow: 1px 1px 9px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 9px -3px rgba(0,0,0,0.75);
+            border-radius:20px;
+        }
+        .top-info{
+            height:40px;
+            width:100%;
+            margin-top:10px;
+        }
+        .top-txt{
+            font-size:15px;
+            padding-top:10px;
+        }
+        .image-bx{
+            height:250px;
+   
+        }
+        .box-img{
+        width:100%;
+        height:250px;
+   
+       object-fit: cover;
+        }
+    .info{
+    margin-top:10px;
+    }
+    .box-txt{
+    font-size:12px;
+     }
+    .copyright{
+    font-size:10px;
+    color:grey;
+    }
+    .btnx{
+        height:50px;
+        width:80px;
+        background-color:grey;
+        color:white;
+        font-size:9px;
+        border-radius:40px;
+        border-style:none;
+    }    
+    nav{
+        margin-top:-22px;
+            }
+     ul{
+        list-style: none;
+            }
+      a{
+        text-decoration:none;
+        color:black;
+            }
+            .btnx-1{
+                width:150px;
+                background-color:aquamarine;
+                color:white;
+                border-radius:25px;
+                height:50px;
+                border-style:none;
+                margin-top:20px;
+
+            }
+            footer{
+                margin-top:30px;
+                color:white;
+                background-color:rgb(182, 182, 182);
+            }
+            .linkx{
+                color:white;
+            }
+            .active, .list:hover {
+  background-color: #666;
+  color: white;
+}
+a:hover{
+    color:white;
+}
